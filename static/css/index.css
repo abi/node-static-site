@@ -1,0 +1,51 @@
+body {
+  font-size: 14px;
+  font-family: 'proxima-nova', 'Helvetica';
+  margin: 0px 50px;
+}
+
+/* Links */
+
+a {
+  text-decoration: none;
+  color: #A60000;
+}
+
+a:hover {
+  border-bottom: 1px solid #A60000;
+  color: #333;
+}
+
+/* Headers */
+
+h1 {
+  margin-bottom: 50px;
+}
+
+/* User elements */
+
+#navbar {
+  border-bottom: 1px solid black;
+}
+
+#navbar h2 {
+  width: auto;
+  display: inline-block;
+}
+
+/* Logo */
+
+h2.logo {
+  font-size: 18px;
+  font-weight: 100;
+  margin: 15px 0px 15px 0px;
+}
+
+h2.logo a {
+  color: #A60000;
+}
+
+h2.logo a:hover {
+  border-bottom: 0px;
+  color: #A60000;
+}
